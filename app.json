@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "scrollAnimation",
+    "name": "Scroll Animation",
     "slug": "scrollAnimation",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A simple scroll animation using pan gestures"
   }
 }
